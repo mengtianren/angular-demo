@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.less']
 })
 export class AppComponent {
-  title = 'angular-tour-of-heroes';
+  public title:string = '欢迎来到英雄之旅！';
 }
